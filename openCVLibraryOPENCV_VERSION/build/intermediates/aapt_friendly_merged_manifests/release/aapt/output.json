@@ -1,0 +1,1 @@
+[{"outputType":{"type":"AAPT_FRIENDLY_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":-1,"versionName":"@OPENCV_VERSION@","enabled":true,"outputFile":"openCVLibraryOPENCV_VERSION-release.aar","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"org.opencv","split":""}}]

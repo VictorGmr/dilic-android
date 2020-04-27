@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#127212</color>
+    <color name="colorAccent">#0044ff</color>
+    <color name="verde">#00ff00</color>
+    <color name="azul">#0000ff</color>
+    <color name="vermelho">#ff0000</color>
+    <color name="roxo">#ff00ff</color>
+    <color name="amarelo">#FFFF00</color>
+    <color name="cinza">#8e8e8e</color>
+    <color name="verdeEscuro">#007400</color>
+    <color name="azulEscuro">#000076</color>
+    <color name="vermelhoEscuro">#700000</color>
+    <color name="roxoEscuro">#740074</color>
+    <color name="amareloEscuro">#7b7b00</color>
+    <color name="cinzaEscuro">#4a4a4a</color>
+    <color name="roxo2">#7030a1</color>
+    <color name="transparente">#00ffff00</color>
+</resources>
